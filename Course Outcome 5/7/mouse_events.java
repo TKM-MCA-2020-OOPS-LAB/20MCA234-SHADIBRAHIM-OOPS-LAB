@@ -4,7 +4,7 @@ import java.applet.*;
 import java.awt.event.*; 
 import java.awt.event.WindowEvent;  
 import java.awt.event.WindowListener;  
-/*<applet code="handle_mouseevents" width=300 height=300>
+/*<applet code="mouse_events" width=300 height=300>
 </applet>*/
 public class mouse_events extends Applet implements MouseListener,MouseMotionListener
 {
